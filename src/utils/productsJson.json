@@ -1,0 +1,102 @@
+[
+  {
+    "id": 6559,
+    "title": "Nuevo producto",
+    "description": "Descripción del nuevo producto",
+    "code": "NP1234",
+    "price": 2,
+    "status": true,
+    "stock": 50,
+    "category": "Electrónica"
+  },
+  {
+    "id": 5197,
+    "title": "Nuevo producto",
+    "description": "Descripción del nuevo producto",
+    "code": "NP1234",
+    "price": 89,
+    "status": true,
+    "stock": 50,
+    "category": "Electrónica"
+  },
+  {
+    "id": 16227,
+    "title": "Nuevo producto",
+    "description": "Descripción del nuevo producto",
+    "code": "NP1234",
+    "price": 78,
+    "status": true,
+    "stock": 50,
+    "category": "Electrónica"
+  },
+  {
+    "id": 10282,
+    "title": "Nuevo producto",
+    "description": "Descripción del nuevo producto",
+    "code": "NP1234",
+    "price": 65,
+    "status": true,
+    "stock": 50,
+    "category": "Electrónica"
+  },
+  {
+    "id": 14333,
+    "title": "Nuevo producto",
+    "description": "Descripción del nuevo producto",
+    "code": "NP1234",
+    "price": 23,
+    "status": true,
+    "stock": 50,
+    "category": "Electrónica"
+  },
+  {
+    "id": 3775,
+    "title": "Nuevo producto",
+    "description": "Descripción del nuevo producto",
+    "code": "NP1234",
+    "price": 46,
+    "status": true,
+    "stock": 50,
+    "category": "Electrónica"
+  },
+  {
+    "id": 10912,
+    "title": "Nuevo producto",
+    "description": "Descripción del nuevo producto",
+    "code": "NP1234",
+    "price": 9,
+    "status": true,
+    "stock": 50,
+    "category": "Electrónica"
+  },
+  {
+    "id": 17159,
+    "title": "Nuevo producto",
+    "description": "Descripción del nuevo producto",
+    "code": "NP1234",
+    "price": 30,
+    "status": true,
+    "stock": 50,
+    "category": "Electrónica"
+  },
+  {
+    "id": 14481,
+    "title": "Nuevo producto",
+    "description": "Descripción del nuevo producto",
+    "code": "NP1234",
+    "price": 8,
+    "status": true,
+    "stock": 50,
+    "category": "Electrónica"
+  },
+  {
+    "id": 3800,
+    "title": "Nuevo producto",
+    "description": "Descripción del nuevo producto",
+    "code": "NP1234",
+    "price": 26,
+    "status": true,
+    "stock": 50,
+    "category": "Electrónica"
+  }
+]
